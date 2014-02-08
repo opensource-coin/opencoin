@@ -1,0 +1,4 @@
+opencoin
+========
+
+Opensource Coin
